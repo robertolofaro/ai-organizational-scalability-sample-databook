@@ -1,0 +1,21 @@
+A book using a real case of a Jupyter Notebook with the analysis of a survey.
+
+An experiment in transitioning to open data and free the approach to report writing done for decades with customers in activities in cultural, organizational, technological change
+
+And sharing ideas about the future of corporate uses of Artificial Intelligence
+
+This e-book is derived from a Jupyter Notebook that I released on 2021-01-06 as part of a “challenge” on Kaggle.com – you can access the original file there https://www.kaggle.com/robertolofaro/ai-organizational-scalability-and-kaggle-survey 
+
+----
+
+If you do not know what I am referring to: a Jupyter Notebok is a way to have (online, on the cloud; or offline, on your computer) a tool that allows to “take notes” that contain executable code (e.g. in Python or R), usually to carry out some computation (e.g. Machine Learning creation and execution of a model) and produce visualizations.
+
+So, why an e-book about what, in the end, is a data-based e-book already online?
+
+The specific “challenge” was to analyze some data from a survey (the annual Kaggle survey between its own community), while providing both a data storytelling, i.e. telling a story via data and, of course, visualizations.
+
+This book extracts the storytelling part (i.e. data, charts) without the programming code, but adding a deeper explanation of the rationale of choices.
+
+As I wrote above, it is “derived from”, not just an e-book version of the Jupyter Notebook.
+
+Also because, if anything, the reverse is true.
