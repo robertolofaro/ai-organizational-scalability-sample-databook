@@ -6,11 +6,11 @@ An experiment in transitioning to open data and free the approach to report writ
 And sharing ideas about the future of corporate uses of Artificial Intelligence
 
 Release: 
-2021-01-05 Jupyter Notebook (V6 as of 2021-01-23) at https://www.kaggle.com/robertolofaro/ai-organizational-scalability-and-kaggle-survey
-2021-01-06 Reproducibility and output archive at https://www.kaggle.com/robertolofaro/20210106-reproducibility-and-output 
-2021-01-22 Draft version of the book as PDF archive at https://www.kaggle.com/robertolofaro/ai-organization-scalability-and-kaggle-survey-book
-due 2021-01-31 The (non-free) book with additional attachments will be on https://leanpub.com/ai-organizational-scalability
-due 2021-01-31 The free version (without attachments) will be on https://issuu.com/robertolofaro
+- 2021-01-05 Jupyter Notebook (V6 as of 2021-01-23) at https://www.kaggle.com/robertolofaro/ai-organizational-scalability-and-kaggle-survey
+- 2021-01-06 Reproducibility and output archive at https://www.kaggle.com/robertolofaro/20210106-reproducibility-and-output 
+- 2021-01-22 Draft version of the book as PDF archive at https://www.kaggle.com/robertolofaro/ai-organization-scalability-and-kaggle-survey-book
+- due 2021-01-31 The (non-free) book with additional attachments will be on https://leanpub.com/ai-organizational-scalability
+- due 2021-01-31 The free version (without attachments) will be on https://issuu.com/robertolofaro
 
 This repository contains the following files, as of 2021-01-25:
 - Jupyter Notebook Version 6, as released on 2021-01-23
