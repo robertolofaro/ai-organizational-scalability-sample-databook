@@ -14,7 +14,6 @@ Release:
 
 This repository contains the following files, as of 2021-01-25:
 - Jupyter Notebook Version 6, as released on 2021-01-23
-- HTML version of the Jupyter Notebook Version 6 (ZIP file)
 - Draft version of the book, as released on 2021-01-22
 
 The Jupyter Notebook follows the narrative of a report as if it were released to an audience that read the 2020 Kaggle Survey Executive Summary.
